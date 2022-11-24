@@ -4,11 +4,13 @@
 - 😄 Pronouns: he/his
 <br />
 <div align="center">
-  <img height="350em" src="https://github.com/AlexandreRCP/ad-reactJS/blob/main/src/assets/React%20App%20-%20Video.gif"/>
+  <img height="350em" src="https://github.com/AlexandreRCP/ad-ract-typeScript-cadastro/blob/main/src/assets/React-App-Cadastro-TS%20.gif"/>
   <br />
   <br />
   <img align="center" alt="Alex-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Alex-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Alex-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+
   <img align="center" alt="Alex-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Alex-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alex-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
